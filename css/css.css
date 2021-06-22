@@ -1,0 +1,15 @@
+
+.navbar-custom {
+  background-color:#01659d;
+}
+.navbar-custom a {
+  color: white;
+}
+
+.navbar-custom form {
+  margin-left: 660px
+}
+
+.container-xxl button {
+  margin-left: 10px;
+}
